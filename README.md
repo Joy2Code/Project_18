@@ -7,3 +7,5 @@ This the a new project in 2018
    
 ==  nice function used
     easy workflow
+    
+ == Creating a local copy of the project for editing
